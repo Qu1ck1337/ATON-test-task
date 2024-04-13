@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hide {
+    display: None;
+}
+
+#auth {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
